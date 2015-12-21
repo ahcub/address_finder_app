@@ -1,0 +1,2 @@
+for domain in page_generator:
+    for url, company, tree in domain:
