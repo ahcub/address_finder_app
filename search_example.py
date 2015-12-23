@@ -17,5 +17,5 @@ def get_address_on_page(html_page):
     print(counter)
 
 if __name__ == '__main__':
-    html_page = html.parse(r'C:\Users\Alex\Desktop\basicdata\n\netop.com\www\classroom-management-software\company\contact.htm_crawled')
+    html_page = html.parse(r'web_page_example.html')
     get_address_on_page(html_page)
