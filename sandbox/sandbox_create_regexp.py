@@ -1,4 +1,3 @@
-import re
 from ast import literal_eval
 from lxml import html
 
